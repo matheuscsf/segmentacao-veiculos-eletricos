@@ -19,4 +19,10 @@ Se ainda não tiver instalado, crie um ambiente virtual e instale as dependênci
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
+```
+### 2️⃣ Inicie o Jupyter Notebook
+Para rodar os notebooks:
+```bash
+jupyter notebook
+```
+Agora, basta navegar até a pasta ```notebooks/``` e abrir os arquivos .ipynb para explorar as análises.
