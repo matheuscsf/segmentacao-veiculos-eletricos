@@ -34,7 +34,7 @@ A base contém informações sobre veículos elétricos registrados, incluindo:
 1️⃣ Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/segmentacao-veiculos-eletricos.git
+git clone https://github.com/matheuscsf/segmentacao-veiculos-eletricos.git
 cd segmentacao-veiculos-eletricos
 ```
 
