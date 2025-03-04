@@ -22,7 +22,6 @@ A base contém informações sobre veículos elétricos registrados, incluindo:
  ┣ 📂 notebooks           # 📒 Notebooks com cada etapa do projeto
  ┣ 📂 src                 # 🖥️ Código-fonte (funções e processamento)
  ┣ 📂 images              # 📸 Gráficos e visualizações
- ┣ 📂 reports             # 📄 Relatórios gerados
  ┣ 📄 README.md           # 📜 Documentação principal do projeto
  ┣ 📄 requirements.txt    # 📦 Dependências para rodar o projeto
  ┗ 📄 .gitignore          # 🚫 Arquivos ignorados pelo Git
