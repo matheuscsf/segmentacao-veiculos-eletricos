@@ -57,16 +57,21 @@ jupyter notebook
 ---
 
 ## 🏆 Metodologia Aplicada
+
 📌 1. Exploração dos Dados
 - Analisamos os principais atributos e realizamos a limpeza dos dados.
+  
 📌 2. Tratamento e Normalização
 - Convertendo variáveis categóricas em numéricas.
 - Normalizando os dados para melhor performance do modelo.
+
 📌 3. Redução de Dimensionalidade (PCA)
 - Aplicamos PCA para reduzir a complexidade dos dados.
+
 📌 4. Clusterização (K-Means)
 - Escolhemos K = 3 usando o Método do Cotovelo.
 - Criamos grupos distintos de proprietários com base nas características dos veículos.
+
 📌 5. Visualização e Insights
 - Criamos gráficos para interpretar os clusters.
 - Identificamos perfis distintos de proprietários.
